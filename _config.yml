@@ -16,11 +16,11 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Site Title"
-title_separator          : "-"
+title                    : "K.A.M STAT"
+title_separator          : "열심히 살자"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Your Name"
-description              : "An amazing website."
+name                     : "AmeeKang"
+description              : #"An amazing website."
 remote_theme : mmistakes/minimal-mistakes
 minimal_mistakes_skin    : "default"
 url                      : "https://AmeeKang.github.io"
