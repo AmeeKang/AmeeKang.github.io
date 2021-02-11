@@ -1,6 +1,5 @@
 
 
-
 # Welcome to Jekyll!
 #
 # This config file is meant for settings that affect your entire site, values
@@ -56,7 +55,7 @@ reCaptcha:
 atom_feed:
   path                   : # blank (default) uses feed.xml
   hide                   : # true, false (default)
-search                   : # true, false (default)
+search                   : true # false (default)
 search_full_content      : # true, false (default)
 search_provider          : # lunr (default), algolia, google
 algolia:
@@ -99,7 +98,7 @@ analytics:
 # Site Author
 author:
   name             : "AmeeKang"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/Users/amy/Downloads/P20190322_162053908_A82E3940-51EB-4342-99A0-2710DE4EC322.HEIC"
   bio              : "I am an **amazing** person."
   location         : "Seoul,KOREA"
   email            :
