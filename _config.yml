@@ -19,10 +19,10 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Site Title"
+title                    : "K.A.M STAT!"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Your Name"
+name                     : "AmeeKang"
 description              : "An amazing website."
 
 url                      : "https://AmeeKang.github.io"
@@ -98,10 +98,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "AmeeKang"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I am an **amazing** person."
-  location         : "Somewhere"
+  location         : "Seoul,KOREA"
   email            :
   links:
     - label: "Email"
