@@ -20,7 +20,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 locale                   : "ko-KR"
 title                    : "K.A.M STAT!"
 title_separator          : "-"
-subtitle                 : "My Awesome Site"
+subtitle                 : #"My Awesome Site"
 name                     : "AmeeKang"
 description              : "#STAT #SAS #Python #R"
 
