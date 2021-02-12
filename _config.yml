@@ -17,7 +17,7 @@
 minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale                   : "ko-KR"
+locale                   : "ko"
 title                    : "K.A.M STAT!"
 title_separator          : "-"
 subtitle                 : #"My Awesome Site"
@@ -98,7 +98,7 @@ analytics:
 # Site Author
 author:
   name             : "AmeeKang"
-  avatar           : #
+  avatar           : "/assets/amyphoto.HEIC"
   bio              : "I am an **amazing** person."
   location         : "Seoul,KOREA"
   email            :
