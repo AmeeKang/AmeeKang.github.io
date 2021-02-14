@@ -284,7 +284,8 @@ defaults:
       share: true
       related: true
 
-      
+  sidebar:
+  nav: "docs"    
      
       
 remote_theme : mmistakes/minimal-mistakes
